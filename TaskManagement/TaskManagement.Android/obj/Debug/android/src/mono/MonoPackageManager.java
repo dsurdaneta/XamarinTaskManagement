@@ -108,6 +108,10 @@ class MonoPackageManager_Resources {
 		/* We need to ensure that "TaskManagement.Android.dll" comes first in this list. */
 		"TaskManagement.Android.dll",
 		"FormsViewGroup.dll",
+		"TaskManagement.dll",
+		"TaskManagement.Models.dll",
+		"TaskManagement.ViewModel.dll",
+		"TaskManagement.Views.dll",
 		"Xamarin.Android.Support.Animated.Vector.Drawable.dll",
 		"Xamarin.Android.Support.Annotations.dll",
 		"Xamarin.Android.Support.Compat.dll",
@@ -126,12 +130,8 @@ class MonoPackageManager_Resources {
 		"Xamarin.Forms.Platform.Android.dll",
 		"Xamarin.Forms.Platform.dll",
 		"Xamarin.Forms.Xaml.dll",
-		"TaskManagement.dll",
-		"TaskManagement.Models.dll",
-		"TaskManagement.ViewModel.dll",
-		"TaskManagement.Views.dll",
 	};
 	public static final String[] Dependencies = new String[]{
 	};
-	public static final String ApiPackageName = "Mono.Android.Platform.ApiLevel_25";
+	public static final String ApiPackageName = "Mono.Android.Platform.ApiLevel_27";
 }

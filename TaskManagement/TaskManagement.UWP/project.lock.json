@@ -16256,7 +16256,7 @@
       ]
     },
     "Microsoft.NETCore.UniversalWindowsPlatform/5.2.2": {
-      "sha512": "9UHv2YObWmcF8gqtBoDC4UW5gdHzFRtaZ5KtB9QKvCy+NC9LH1DMYyOI/ltupjVZlwYEulj3msjBXys9/QI6nw==",
+      "sha512": "eHccUiYTkiY8xeixRA0DV9mcFpi9GA9UzKt3v0d6NtNGrGefhmqwnb60PSWQPe49tXbxZaP0x+W0ghvj6hflHg==",
       "type": "package",
       "path": "microsoft.netcore.universalwindowsplatform/5.2.2",
       "files": [
@@ -22437,20 +22437,21 @@
     "UAP,Version=v10.0.10586": []
   },
   "packageFolders": {
-    "C:\\Users\\Oscar Jara\\.nuget\\packages\\": {}
+    "C:\\Users\\urdanetd\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
-      "projectUniqueName": "C:\\Users\\Oscar Jara\\Source\\Repos\\TaskManagement\\TaskManagement\\TaskManagement.UWP\\TaskManagement.UWP.csproj",
+      "projectUniqueName": "D:\\Git\\Projects\\XamarinTaskManagement\\TaskManagement\\TaskManagement.UWP\\TaskManagement.UWP.csproj",
       "projectName": "TaskManagement.UWP",
-      "projectPath": "C:\\Users\\Oscar Jara\\Source\\Repos\\TaskManagement\\TaskManagement\\TaskManagement.UWP\\TaskManagement.UWP.csproj",
-      "projectJsonPath": "C:\\Users\\Oscar Jara\\Source\\Repos\\TaskManagement\\TaskManagement\\TaskManagement.UWP\\project.json",
-      "packagesPath": "C:\\Users\\Oscar Jara\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Oscar Jara\\Source\\Repos\\TaskManagement\\TaskManagement\\TaskManagement.UWP\\obj\\",
+      "projectPath": "D:\\Git\\Projects\\XamarinTaskManagement\\TaskManagement\\TaskManagement.UWP\\TaskManagement.UWP.csproj",
+      "projectJsonPath": "D:\\Git\\Projects\\XamarinTaskManagement\\TaskManagement\\TaskManagement.UWP\\project.json",
+      "packagesPath": "C:\\Users\\urdanetd\\.nuget\\packages\\",
+      "outputPath": "D:\\Git\\Projects\\XamarinTaskManagement\\TaskManagement\\TaskManagement.UWP\\obj\\",
       "projectStyle": "ProjectJson",
       "configFilePaths": [
-        "C:\\Users\\Oscar Jara\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\urdanetd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -22459,16 +22460,16 @@
       "frameworks": {
         "uap10.0.10586": {
           "projectReferences": {
-            "C:\\Users\\Oscar Jara\\Source\\Repos\\TaskManagement\\TaskManagement\\TaskManagement\\TaskManagement.csproj": {
-              "projectPath": "C:\\Users\\Oscar Jara\\Source\\Repos\\TaskManagement\\TaskManagement\\TaskManagement\\TaskManagement.csproj"
+            "D:\\Git\\Projects\\XamarinTaskManagement\\TaskManagement\\TaskManagement\\TaskManagement.csproj": {
+              "projectPath": "D:\\Git\\Projects\\XamarinTaskManagement\\TaskManagement\\TaskManagement\\TaskManagement.csproj"
             }
           }
         }
       }
     },
     "dependencies": {
-      "Microsoft.NETCore.UniversalWindowsPlatform": "5.2.2",
-      "Xamarin.Forms": "2.4.0.280"
+      "Microsoft.NETCore.UniversalWindowsPlatform": "[5.2.2, )",
+      "Xamarin.Forms": "[2.4.0.280, )"
     },
     "frameworks": {
       "uap10.0.10586": {}

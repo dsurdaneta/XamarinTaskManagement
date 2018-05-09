@@ -14,3 +14,20 @@ C:\Users\Oscar Jara\Source\Repos\TaskManagement\TaskManagement.ViewModel\obj\Deb
 C:\Users\Oscar Jara\Source\Repos\TaskManagement\TaskManagement.ViewModel\obj\Debug\TaskManagement.ViewModel.csproj.CoreCompileInputs.cache
 C:\Users\Oscar Jara\Source\Repos\TaskManagement\TaskManagement.ViewModel\obj\Debug\TaskManagement.ViewModel.dll
 C:\Users\Oscar Jara\Source\Repos\TaskManagement\TaskManagement.ViewModel\obj\Debug\TaskManagement.ViewModel.pdb
+D:\Git\Projects\XamarinTaskManagement\TaskManagement.ViewModel\bin\Debug\TaskManagement.ViewModel.dll
+D:\Git\Projects\XamarinTaskManagement\TaskManagement.ViewModel\bin\Debug\TaskManagement.ViewModel.pdb
+D:\Git\Projects\XamarinTaskManagement\TaskManagement.ViewModel\bin\Debug\TaskManagement.Models.dll
+D:\Git\Projects\XamarinTaskManagement\TaskManagement.ViewModel\bin\Debug\Xamarin.Forms.Core.dll
+D:\Git\Projects\XamarinTaskManagement\TaskManagement.ViewModel\bin\Debug\Xamarin.Forms.Platform.dll
+D:\Git\Projects\XamarinTaskManagement\TaskManagement.ViewModel\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Git\Projects\XamarinTaskManagement\TaskManagement.ViewModel\bin\Debug\TaskManagement.Models.pdb
+D:\Git\Projects\XamarinTaskManagement\TaskManagement.ViewModel\bin\Debug\Xamarin.Forms.Core.pdb
+D:\Git\Projects\XamarinTaskManagement\TaskManagement.ViewModel\bin\Debug\Xamarin.Forms.Core.xml
+D:\Git\Projects\XamarinTaskManagement\TaskManagement.ViewModel\bin\Debug\Xamarin.Forms.Platform.pdb
+D:\Git\Projects\XamarinTaskManagement\TaskManagement.ViewModel\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\Git\Projects\XamarinTaskManagement\TaskManagement.ViewModel\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Git\Projects\XamarinTaskManagement\TaskManagement.ViewModel\obj\Debug\TaskManagement.ViewModel.csprojAssemblyReference.cache
+D:\Git\Projects\XamarinTaskManagement\TaskManagement.ViewModel\obj\Debug\TaskManagement.ViewModel.csproj.CoreCompileInputs.cache
+D:\Git\Projects\XamarinTaskManagement\TaskManagement.ViewModel\obj\Debug\TaskManagement.ViewModel.csproj.CopyComplete
+D:\Git\Projects\XamarinTaskManagement\TaskManagement.ViewModel\obj\Debug\TaskManagement.ViewModel.dll
+D:\Git\Projects\XamarinTaskManagement\TaskManagement.ViewModel\obj\Debug\TaskManagement.ViewModel.pdb
