@@ -21,6 +21,7 @@ D:\Git\Projects\XamarinTaskManagement\TaskManagement.Models\bin\Debug\Xamarin.Fo
 D:\Git\Projects\XamarinTaskManagement\TaskManagement.Models\bin\Debug\Xamarin.Forms.Platform.pdb
 D:\Git\Projects\XamarinTaskManagement\TaskManagement.Models\bin\Debug\Xamarin.Forms.Xaml.pdb
 D:\Git\Projects\XamarinTaskManagement\TaskManagement.Models\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Git\Projects\XamarinTaskManagement\TaskManagement.Models\obj\Debug\TaskManagement.Models.csprojAssemblyReference.cache
 D:\Git\Projects\XamarinTaskManagement\TaskManagement.Models\obj\Debug\TaskManagement.Models.csproj.CoreCompileInputs.cache
 D:\Git\Projects\XamarinTaskManagement\TaskManagement.Models\obj\Debug\TaskManagement.Models.csproj.CopyComplete
 D:\Git\Projects\XamarinTaskManagement\TaskManagement.Models\obj\Debug\TaskManagement.Models.dll
